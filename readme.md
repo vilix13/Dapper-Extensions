@@ -6,6 +6,8 @@ For my proposes I added functionality which allows you make Update with Dapper-E
 
 Any tips to improve the code are welcome through issues and PR.
 
+Now I noticed that a working build for only DapperExtensions.Net45
+
 # Examples:
 
 ```
